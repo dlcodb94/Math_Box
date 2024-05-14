@@ -13,14 +13,5 @@ def divide_new(a,b):
 def get_Median(a,b):
     return (a*b)/2
 
-def get_Remainder(a,b):
-    return a//b
-
-def get_Abs(num):
-    if numm >= 0:
-        return num
-    else:
-        return -num
-
-def getPercent(a, b)
-    return (a/b) * 100
+def getSum_ver1(n):
+    return n(n+1)/2
